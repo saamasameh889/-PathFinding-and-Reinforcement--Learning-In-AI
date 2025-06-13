@@ -1,4 +1,4 @@
-# AI-Based Pathfinding and Parkinson's Disease Detection
+# AI-Based Pathfinding 
 
 This repository contains two key phases of an AI project:
 
